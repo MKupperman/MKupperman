@@ -1,8 +1,8 @@
 ### Hello 👋 I'm Michael Kupperman
 
-[![MKupperman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKupperman)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=onedark)
+[![MKupperman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKupperman&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Code Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=MKupperman)](https://github.com/anuraghazra/github-readme-stats&theme=onedark&hide=jupyter%20notebook)
+[![Code Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=MKupperman&theme=onedark&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MKupperman/MKupperman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
